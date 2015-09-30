@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 石渠寶笈
-#+DATE: 2015-08-24 23:16:08.150631
-#+PROPERTY: ID KR3h0063
-#+PROPERTY: BASEEDITION WYG    
